@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import AudioToolboxs
+import AudioToolbox
 
 class ViewController: UIViewController{
     
